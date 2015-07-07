@@ -1,0 +1,5 @@
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/jquery.min.js">\x3C/script>')</script>
+<!-- build:js js/plugins.min.js -->
+<!-- endbuild -->
+<script src="js/main.js"></script>
